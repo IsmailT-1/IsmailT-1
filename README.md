@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Ismail! 👋
 
-<!--
-**IsmailT-1/IsmailT-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at **Northern Alberta Institute of Technology (NAIT)** – Edmonton, Alberta  
+💻 Web Design & Development Student  
 
-Here are some ideas to get you started:
+## 🏆 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting! I’m currently studying at NAIT and building my skills in web development and programming.
+I approach coding the same way I approach basketball and the gym:
+
+- 🧠 Study the fundamentals  
+- 🔁 Practice consistently  
+- 📈 Track performance  
+- 🏀 Play to win — as a team  
+
+Whether I’m debugging code or grinding out reps, I believe in discipline, consistency, and continuous improvement.
+
+## 📊 Current Season Goals
+
+- 🔥 Build 5 polished portfolio projects  
+- 💼 Land a tech internship  
+- 📚 Continue leveling up at NAIT  
+
+## 🏀 Developer Mindset
+
+> "Hard work beats talent when talent doesn’t work hard."
+
+I bring:
+- Strong work ethic  
+- Team-first mentality  
+- Coachable attitude  
+- Consistent improvement mindset  
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Click Here!](www.linkedin.com/in/ismail-rahman-839bb3345)
