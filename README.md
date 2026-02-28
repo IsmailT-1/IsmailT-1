@@ -28,7 +28,13 @@ I bring:
 - Strong work ethic  
 - Team-first mentality  
 - Coachable attitude  
-- Consistent improvement mindset  
+- Consistent improvement mindset
+
+## 🏆 My Hobbies
+- Video games
+- Sports
+- Working Out
+- Adventuring
 
 ## 📫 Connect With Me
 
