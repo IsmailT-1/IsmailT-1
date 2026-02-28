@@ -1,7 +1,6 @@
 # Hi, I'm Ismail! 👋
 
-🎓 Student at **Northern Alberta Institute of Technology (NAIT)** – Edmonton, Alberta  
-💻 Web Design & Development Student  
+🎓 I am a student at **Northern Alberta Institute of Technology (NAIT)** in Edmonton, Alberta and am a Web Design & Development Student!
 
 ## 🏆 About Me
 
@@ -21,7 +20,7 @@ Whether I’m debugging code or grinding out reps, I believe in discipline, cons
 - 💼 Land a tech internship  
 - 📚 Continue leveling up at NAIT  
 
-## 🏀 Developer Mindset
+## 💻 Developer Mindset
 
 > "Hard work beats talent when talent doesn’t work hard."
 
